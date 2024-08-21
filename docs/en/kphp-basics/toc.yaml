@@ -1,0 +1,26 @@
+title: Sub-section Example TOC
+href: index.yaml
+items:
+  - name: Installation
+    href: installation.md
+
+  - name: Compile a sample PHP script
+    href: compile-sample-script.md
+
+  - name: Quickstart a new project
+    href: quickstart-new-project.md
+
+  - name: Compile your existing project
+    href: compile-existing-project.md
+
+  - name: Typical usage issues
+    href: typical-usage-issues.md
+
+  - name: FAQ
+    href: faq.md
+
+  - name: What's new?
+    href: whats-new.md
+
+  - name: Roadmap
+    href: roadmap.md
